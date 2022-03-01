@@ -1,0 +1,30 @@
+body{
+    background-size:cover;
+}
+#start, #number, #status{
+    font-size:20px;
+}
+.copy_right_footer{
+    position: fixed;
+    color:grey;
+    bottom:0;
+    width:100%;
+    background-color: red;
+    line-height: 3;
+    text-align:center;
+}
+canvas{
+    border:2px solid purple;
+    border-radius:10px;
+    margin-top:120px;
+    box-shadow:5px 5px 10px black;
+}
+.btn-danger{
+    width:100%;
+}
+h4{
+    color:white;
+}
+#e{
+    color:white;
+}
